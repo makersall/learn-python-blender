@@ -1,11 +1,9 @@
 ---
-title: My Website
-layout: home
+title: Learn Python via Blender
+layout: content
+image: site-banner.jpg
 ---
-<img src="{{'/assets/images/makers-all-banner.png'  | relative_url }} ">
 
-## Title
 
-Text
-
+{ Thought experiment on getting to play with cool toys while learning Python -- in this case, Blender }
 

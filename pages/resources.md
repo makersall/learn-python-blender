@@ -6,6 +6,7 @@ links:
   - Sample Scripts 
   - https://github.com/njanakiev/blender-scripting/blob/master/scripts/simple_sphere.py
   - https://github.com/aschneiderman/blender-python-for-artists/blob/master/blender-python-code-exs.txt
+  - https://github.com/njanakiev/blender-scripting/blob/master/scripts/utils/__init__.py
   - https://il.pycon.org/2016/static/sessions/tamir-lousky.pdf
   - https://youtu.be/FB0TY51Hid0
   - https://github.com/Tlousky/blender_scripts/tree/master/pycon2016il

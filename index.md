@@ -7,3 +7,4 @@ image: site-banner.jpg
 
 { Thought experiment on getting to play with cool toys while learning Python -- in this case, Blender }
 
+[Getting Started](Pages/getting-started.html)
